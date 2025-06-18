@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on becoming the best dad in the 🌍
+- 🌱 I’m currently learning Data Analytics at Turing College
 <!--
 **Zlatanjr/Zlatanjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
